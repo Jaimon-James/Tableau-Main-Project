@@ -1,5 +1,7 @@
 Glassdoor Review Analysis Dashboard 📊📌
-Project OverviewThis project is a comprehensive End-to-End Data Visualization built in Tableau, analyzing over 838,000 Glassdoor reviews. The goal was to uncover deep insights into workplace culture, employee retention, and corporate benefits across global industry leaders.By analyzing trends from 2008 to 2021, this dashboard provides a historical and modern perspective on how employee priorities have shifted, specifically focusing on work-life balance, career opportunities, and cultural values.
+
+Project Overview
+This project is a comprehensive End-to-End Data Visualization built in Tableau, analyzing over 838,000 Glassdoor reviews. The goal was to uncover deep insights into workplace culture, employee retention, and corporate benefits across global industry leaders.By analyzing trends from 2008 to 2021, this dashboard provides a historical and modern perspective on how employee priorities have shifted, specifically focusing on work-life balance, career opportunities, and cultural values.
 
 🗂️ Dataset FocusSource: Glassdoor Job Reviews (Kaggle)Total Reviews: 838,566Key Metrics: Overall Rating, Work-Life Balance, Culture & Values, Career Opportunities, and Benefits.Scope: Global (covering major firms like IBM, Deloitte, EY, Oracle, PwC, Microsoft, etc.)
 
