@@ -1,5 +1,5 @@
 # Tableau-Main-Project
-Glassdoor Review Analysis Dashboard using excela and tableau
+Glassdoor Review Analysis Dashboard using excel and tableau
 
 https://drive.google.com/file/d/1hD_lcsmXJDtJpPsCC4ADyIAryys9ICB-/view?usp=drive_link
 
